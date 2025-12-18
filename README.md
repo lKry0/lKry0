@@ -1,6 +1,6 @@
-# Hi, I'm John Doe 👋
+# Hi, I'm Tinea Sorin 👋
 
-## Software Engineer | Web & Backend Developer
+## Forntend & Backend Developer
 
 I'm a software engineer with a strong interest in building clean, scalable, and user-focused applications. I enjoy solving real-world problems using modern technologies and best development practices.
 
