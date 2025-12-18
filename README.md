@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm John Doe 👋
 
-<!--
-**lKry0/lKry0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | Web & Backend Developer
 
-Here are some ideas to get you started:
+I'm a software engineer with a strong interest in building clean, scalable, and user-focused applications. I enjoy solving real-world problems using modern technologies and best development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technologies & Tools
+
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **Frontend:** React, Next.js, HTML5, CSS3, SCSS, SASS
+- **Backend:** Node.js, REST APIs
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Tools:** Git, GitHub, GitLab, VSCode
+
+
+### 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/sorin-tinea-49ab85292
+- Email: tineasorin@gmail.com
+- Portfolio: [https://yourwebsite.com](https://github.com/lKry0/kry0web)
+
+---
+
+⭐️ *Feel free to explore my repositories and reach out if you'd like to collaborate.*
+
