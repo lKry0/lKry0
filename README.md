@@ -19,7 +19,7 @@ I'm a software engineer with a strong interest in building clean, scalable, and 
 
 - LinkedIn: www.linkedin.com/in/sorin-tinea-49ab85292
 - Email: tineasorin@gmail.com
-- Portfolio: [https://yourwebsite.com](https://github.com/lKry0/kry0web)
+- Portfolio: https://github.com/lKry0/kry0web
 
 ---
 
